@@ -18,6 +18,6 @@ func BMICalculator(height:Double, weight:Double) -> String {
     return "\(introMessage). \(interpretation)"
 }
 
-print(BMICalculator(height: 1.78, weight: 64))
+print(BMICalculator(height: 1.8, weight: 83))
 
 
